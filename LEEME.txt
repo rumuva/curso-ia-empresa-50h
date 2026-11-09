@@ -1,0 +1,1 @@
+Descomprime el ZIP y abre index.html en un navegador. Para publicarlo, sube index.html y portada.png a la carpeta del sitio. El progreso y los aprobados se guardan solo en el navegador local.
